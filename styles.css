@@ -1,0 +1,14 @@
+.card-center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-header{
+    height: 40px;
+}
+.nav-pills .nav-link.active{
+    background: gray;
+    color: white;
+}
+.nav-link, .nav-link:hover{
+    color: gray;
+}
